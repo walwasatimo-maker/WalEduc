@@ -1,0 +1,10 @@
+{
+  "name": "waleduc",
+  "version": "2.0.0",
+  "description": "WalEduc — school management system server (Node.js + SQLite)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "test": "node test/run.js", "reset-admin": "node server.js reset-admin" },
+  "engines": { "node": ">=22.13" },
+  "license": "UNLICENSED",
+  "private": true
+}
